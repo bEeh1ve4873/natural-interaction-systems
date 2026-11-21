@@ -1,4 +1,4 @@
-# 1. 强制将 .rb 和 Gemfile 重新归类为 Python（消除 Ruby 计数）
+## 1. 强制将 .rb 和 Gemfile 重新归类为 Python（消除 Ruby 计数）
 *.rb linguist-language=Python
 Gemfile linguist-language=Python
 
