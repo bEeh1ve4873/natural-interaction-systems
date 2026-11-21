@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "What is out there right now"
+title: "Current trend"
 permalink: /current_trend/
 ---
 # The grand overview
