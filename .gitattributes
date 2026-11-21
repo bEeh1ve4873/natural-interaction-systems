@@ -1,0 +1,11 @@
+# 1. 强制将 .rb 和 Gemfile 重新归类为 Python（消除 Ruby 计数）
+*.rb linguist-language=Python
+Gemfile linguist-language=Python
+
+# 2. 确保 .py 文件被计入 Python 统计（默认已包含，此行为保险）
+*.py linguist-language=Python
+*.py linguist-detectable=true
+
+# 3. 确保 .css 文件被计入 CSS 统计（默认已包含，此行为保险）
+*.css linguist-language=CSS
+*.css linguist-detectable=true
