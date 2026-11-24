@@ -8,6 +8,6 @@ I am a systems builder and reviewer working at the intersection of robotics, erg
 
 If you are working on ergonomics, naturalistic HRI, or multi-robot coordination, the notes here may be useful, and I welcome correspondence.
 
-[My research focus]({{ site.writingurl }}/current_trend.md/)
+[My research focus]({{ site.baseurl }}/current_trend.md/)
 
-[Terminology pondering]({{ site.writingurl }}/terminology.md/)
+[Terminology pondering]({{ site.baseurl }}/terminology.md/)
