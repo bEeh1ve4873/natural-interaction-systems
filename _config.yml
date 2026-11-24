@@ -5,3 +5,4 @@ plugins:
 
 #Add site url
 baseurl: "/natural-interaction-systems"
+writingurl: "/natural-interaction-systems/blob/writing"
